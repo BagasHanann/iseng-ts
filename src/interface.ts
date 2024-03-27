@@ -1,4 +1,4 @@
-;;interface FootballPlayer {
+interface FootballPlayer {
 	nama: string;
 	age: number;
 	club: string;
